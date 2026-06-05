@@ -34,3 +34,4 @@ With this approach you essentially purchase an avatar base, look up clothes that
 
 This is the approach I recommend for the best results for beginners.
 
+Read more about marketplace avatars [Here](./marketplace-avatar.md)
